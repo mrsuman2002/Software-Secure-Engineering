@@ -12,7 +12,7 @@ Time spent: **7** hours spent in total
     - Tested in version: 4.2
      
   - [ ] GIF Walkthrough: yes 
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: Created a new user and checked while logging in
   <img src="https://github.com/mrsuman2002/Software-Secure-Engineering/blob/master/WP%204.2%20%20Username%20emumeration.gif">
 
 
