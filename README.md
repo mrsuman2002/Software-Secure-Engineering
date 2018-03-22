@@ -13,7 +13,8 @@ Time spent: **7** hours spent in total
      
   - [ ] GIF Walkthrough: yes 
   - [ ] Steps to recreate: 
-   <img src='WP 4.2 Username emumeration.gif' title='User enumeration' width='' alt='' />
+  <img src="https://github.com/mrsuman2002/Software-Secure-Engineering/blob/master/WP%204.2%20%20Username%20emumeration.gif">
+
 
 
 1. (Required) Vulnerability Name or ID Cross site scripting
@@ -23,7 +24,7 @@ Time spent: **7** hours spent in total
     
   - [ ] GIF Walkthrough:yes
   - [ ] Steps to recreate: XSS on wordpress website
-   <img src='WP 4.2 XSS on a WordPress site.gif' title='WordPress XSS' width='' alt='' />
+<img src="https://github.com/mrsuman2002/Software-Secure-Engineering/blob/master/WP%204.2%20%20XSS%20on%20a%20WordPress%20site.gif">
 
 1. (Required) Vulnerability Name or ID XSS to upload larger media than 2 mb
   - [ ] Summary: uploaded 56 MB media by XSS on it a file name
@@ -33,4 +34,5 @@ Time spent: **7** hours spent in total
   - [ ] GIF Walkthrough: yes
   - [ ] Steps to recreate: uploaded 56 MB media by XSS on it a file name
    
-   <img src='WP 4.2 Username emumeration.gif' title='WordPress XSS2' width='' alt='' />
+   <img src='WP 4.7.4 Large File Upload Error XSS.gif' title='WordPress XSS2' width='' alt='' />
+   
